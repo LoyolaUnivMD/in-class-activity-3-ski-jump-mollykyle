@@ -1,0 +1,27 @@
+1. Output purpose
+2. Ask user for type of hill
+3. While hill type doesn't equal normal or large:
+    a. Ask for hill type again
+4. If hill type is normal:
+    a. Set values given for normal height
+    b. Ask for jumper's speed
+    c. Calculate distance traveled
+    d. Calculate points using distance traveled
+    e. If points greater than 61:
+        i. Output "Great job for doing better than par!"
+    f. Otherwise if point earned is less than 10:
+        i. Output "What happened???"
+    g. Else:
+        i. Output "Sorry you didn't go very far"
+5. Otherwise if hill type is large:
+    a. Set values given for large height
+    b. Ask for jumper's speed
+    c. Calculate distance traveled
+    d. Calculate points using distance traveled
+    e. If points greater than 61:
+        i. Output "Great job for doing better than par!"
+    f. Otherwise if point earned is less than 10:
+        i. Output "What happened???"
+    g. Else:
+        i. Output "Sorry you didn't go very far"
+
