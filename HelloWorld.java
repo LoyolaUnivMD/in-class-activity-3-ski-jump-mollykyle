@@ -1,3 +1,14 @@
+//PA0.java
+// Programmer: Molly Kyle
+// Course: CS 212, Dr.Nweke
+// Due Date: 2/1/24
+// Class Assignment: 3
+// Problem Statement: This program will calculate points earned by a skier and distance traveled by speed given
+// Input: Type of hill, speed of the skier
+// Output: Points earned, message
+// Credits: none
+
+
 import java.util.Objects;
 import java.util.Scanner;
 import java.lang.Math;
